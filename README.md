@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dhirendra-singh-91066916/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="dhirendra761" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhirendra-singh-91066916/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Flinkedin-208-916919.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Flinkedin-208&tbnid=EunzbaJLNMJ2DM&vet=12ahUKEwjx--CLr97wAhXCCSsKHaRIA6MQMygFegUIARDYAQ..i&docid=IDpzzG5kLa4RPM&w=256&h=256&q=linkedin%20icon&ved=2ahUKEwjx--CLr97wAhXCCSsKHaRIA6MQMygFegUIARDYAQ" alt="dhirendra761" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
