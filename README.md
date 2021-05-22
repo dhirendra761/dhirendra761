@@ -1,10 +1,9 @@
-![dhirendra761's github stats](https://github-readme-stats.vercel.app/api?username=dhirendra761&show_icons=true&theme=dark&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendra761&layout=compact)
-
 <h1 align="center">Hi 👋, I'm Dhirendra Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![dhirendra761's github stats](https://github-readme-stats.vercel.app/api?username=dhirendra761&show_icons=true&theme=dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendra761&layout=compact)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirendra761&label=Profile%20views&color=0e75b6&style=flat" alt="dhirendra761" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhirendra761" alt="dhirendra761" /></a> </p>
